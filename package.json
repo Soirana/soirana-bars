@@ -1,0 +1,27 @@
+{
+  "name": "bar-voter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "4.4.3"
+  },
+  "keywords": [],
+  "author": "soirana",
+  "license": "ISC",
+  "description": "bar application for fcc",
+  "dependencies": {
+    "body-parser": "1.15.1",
+    "cookie-parser": "1.4.1",
+    "express": "4.13.4",
+    "express-session": "1.13.0",
+    "merge": "1.2.0",
+    "morgan": "1.7.0",
+    "nedb": "1.8.0",
+    "passport": "0.3.2",
+    "passport-twitter": "1.0.4",
+    "yelp": "1.0.1"
+  }
+}

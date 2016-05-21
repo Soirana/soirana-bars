@@ -1,0 +1,53 @@
+body{background: url("drink.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: cover;
+
+}
+
+h1{
+	text-align: center;
+	font-size: 6vw;
+}
+.linker{
+	width:74vw;
+	margin-left: 5vw;
+	margin-right: 3vw;
+	font-size: 2.4vw;
+	float.left;
+	margin-bottom: 3vw;
+}
+button{
+	font-size: 2.4vw;
+}
+.twit{
+	font-size: 1.5vw;
+	margin-left: 5vw;
+	margin-bottom: 2vw;
+}
+.bars{
+	width: 5vw;
+	height: 5vw;
+	
+	
+}
+.rd{
+	display: inline-flex;
+	text-align: center;
+}
+.header span{
+	background-color: MediumOrchid;
+	font-size: 2.4vw;
+}
+.barbody{
+	background-color: rgba(240,240,250,0.7);
+	font-size: 2.0vw;	
+}
+.goers{
+	height: 5vw;
+	width: 16vw;
+	line-height: 5vw;
+	padding: 0px;
+	vertical-align: center;
+}
